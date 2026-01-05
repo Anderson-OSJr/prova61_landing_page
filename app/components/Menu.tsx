@@ -11,7 +11,7 @@ const Menu = () => {
       </a>
       <a
         className="cursor:pointer hover:text-blue-600 hover:shadow w-fit"
-        href="#"
+        href="#about"
       >
         Sobre
       </a>

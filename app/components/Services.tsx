@@ -43,7 +43,7 @@ const Services = () => {
   return (
     <section id="services" className="bg-blue-100/50 px-6 pb-8">
       <div className="flex flex-col items-center">
-        <div className="rounded-4xl bg-white p-4 mt-18 mb-8 text-amber-700/90 text-xl">
+        <div className="rounded-4xl bg-white p-4 mt-18 mb-8 text-amber-600/80 text-xl">
           Nossos Serviços
         </div>
         <div className="text-blue-900 text-4xl font-bold mb-6">

@@ -31,7 +31,7 @@ const Hero = () => {
           elevam sua marca e aceleram seu crescimento.
         </p>
       </div>
-      <div className="flex flex-row gap-6 mt-4 mb-6 border-b-1 border-amber-200 pb-8">
+      {/* <div className="flex flex-row gap-6 mt-4 mb-6 border-b-1 border-amber-200 pb-8">
         <button className="flex flex-row items-center text-xl gap-2 p-6 rounded-lg bg-gradient-to-r from-blue-900 to to-blue-600 text-white hover:opacity-90 hover:shadow-lg">
           <p>Inicie seu projeto</p>
           <FaArrowRight size={20} />
@@ -39,7 +39,7 @@ const Hero = () => {
         <button className="border rounded-lg text-xl text-blue-900 hover:shadow-lg p-6">
           Veja Nosso Trabalho
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };
